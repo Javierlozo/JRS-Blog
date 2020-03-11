@@ -1,1 +1,1 @@
-Preview: https://javierlozo.github.io/JRS-Blog/Blog.html
+Preview: https://javierlozo.github.io/JRS-Blog
